@@ -41,8 +41,8 @@ Getting started is simple. Just follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SafeSquid-Github/speedtest_complied.git
-    cd speedtest_complied
+    git clone https://github.com/SafeSquid-Github/speedtest_hub.git
+    cd speedtest_hub
     ```
 
 2.  **Run the script:**
